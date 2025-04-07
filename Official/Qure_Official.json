@@ -1,4 +1,9 @@
 {"name":"Qure Official","icons":[
+    {"name":"AIFUN.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/AIFUN.png"},
+    {"name":"AIFUN_Aurora.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/AIFUN_Aurora.png"},
+    {"name":"AIFUN_Neon.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/AIFUN_Neon.png"},
+    {"name":"AIFUN_Pink.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/AIFUN_Pink.png"},
+    {"name":"AIFUN_Rainbow.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/AIFUN_Rainbow.png"},
     {"name":"Ash.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/Ash.png"},
     {"name":"Ash_Neon.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/Ash_Neon.png"},
     {"name":"Ash_Pink.png","url":"https://raw.githubusercontent.com/AlstarWU/Qure_Alstar/master/Official/PNG/Ash_Pink.png"},
